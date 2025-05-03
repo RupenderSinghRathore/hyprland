@@ -1,0 +1,97 @@
+Window 56219f497330 -> t:
+	mapped: 1
+	hidden: 0
+	at: 5,5
+	size: 1590,864
+	workspace: 1 (1)
+	floating: 0
+	pseudo: 0
+	monitor: 0
+	class: kitty
+	title: t
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 45079
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+
+Window 56219f6e7100 -> Perplexity — Zen Browser:
+	mapped: 1
+	hidden: 0
+	at: 5,5
+	size: 1590,864
+	workspace: 2 (2)
+	floating: 0
+	pseudo: 0
+	monitor: 0
+	class: zen
+	title: Perplexity — Zen Browser
+	initialClass: zen
+	initialTitle: Zen Browser
+	pid: 45358
+	xwayland: 0
+	pinned: 0
+	fullscreen: 1
+	fullscreenClient: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+
+Window 56219f64a8e0 -> Let's Go [EPUB] — E-book viewer:
+	mapped: 1
+	hidden: 0
+	at: 0,0
+	size: 1600,900
+	workspace: 3 (3)
+	floating: 0
+	pseudo: 0
+	monitor: 0
+	class: calibre-ebook-viewer
+	title: Let's Go [EPUB] — E-book viewer
+	initialClass: calibre-ebook-viewer
+	initialTitle: Loading book… — E-book viewer
+	pid: 48150
+	xwayland: 0
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+
+Window 56219f7a7a10 -> kami-sama@Excalibur:~:
+	mapped: 1
+	hidden: 0
+	at: 5,5
+	size: 1590,864
+	workspace: 4 (4)
+	floating: 0
+	pseudo: 0
+	monitor: 0
+	class: com.mitchellh.ghostty
+	title: kami-sama@Excalibur:~
+	initialClass: com.mitchellh.ghostty
+	initialTitle: 
+	pid: 67739
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+
+
